@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavik</h1>
- 🤝 A passionate computer science student from India
+ <center><h1>🤝 A passionate computer science student from India </h1> </center>
 <img align="center" alt="coding gif" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniya0000&label=Profile%20views&color=0e75b6&style=flat" alt="taniya0000" /> </p>
 
