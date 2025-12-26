@@ -1,14 +1,30 @@
 <h1 align="center">Hi 👋, I'm Bhavik</h1>
+ 🤝 A passionate computer science student from India
 <img align="center" alt="coding gif" width="400" src="https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taniya0000&label=Profile%20views&color=0e75b6&style=flat" alt="taniya0000" /> </p>
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+🌱 I’m currently learning Nest Js, Agentic AI, Mobile App Development, Flutter, Gen AI
 
-- 💬 Ask me about **Java, Spring, Python, Android (Java)**
+ 🤝 I’m looking for help with **Data Structures and Algorithms**
+
+- 💬 Ask me about Python, React JS, Angular JS,  Java, C, C++, Numpy, Pandas,  Matplotlib, LLMs, Bootstrap,  Cloud Computing, DevOps, Software Development, Web Development, Operating Systems, Networking, Multimedia Technologies, mysql, UI/UX Desgin, Graphic Desgining, Artificial Intelligence, Machine Learning
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bhavik-a099392a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavik-a099392a6" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://discord.com/channels/@me target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Discord-alt.svg" alt="bhavik-a099392a6" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://www.fiverr.com/bhavik_desgin/buying?source=avatar_menu_profiletarget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Fiverr-alt.svg" alt="bhavik-a099392a6" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://www.fiverr.com/bhavik_desgin/buying?source=avatar_menu_profiletarget="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Fiverr-alt.svg" alt="bhavik-a099392a6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
